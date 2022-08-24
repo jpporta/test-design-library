@@ -4,6 +4,7 @@
 docs
 public
 src
+storybook-static
 .gitignore
 .tsconfig.json
 tailwind.config.js
