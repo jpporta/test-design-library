@@ -1,7 +1,6 @@
 {
   "name": "@jpporta/test-design-library",
   "version": "0.1.0",
-  "private": true,
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
@@ -25,7 +24,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "build": "rollup -c",
-    "prepare": "husky install"
+    "husky-prepare": "husky install"
   },
   "eslintConfig": {
     "extends": [

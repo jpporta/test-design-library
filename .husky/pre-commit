@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
+rm -rf docs
 yarn build-storybook
 mv storybook-static docs
 git add docs
