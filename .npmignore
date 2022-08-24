@@ -1,0 +1,9 @@
+.github
+.husky
+.storybook
+docs
+public
+src
+.gitignore
+.tsconfig.json
+tailwind.config.js
