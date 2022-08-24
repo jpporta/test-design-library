@@ -1,6 +1,6 @@
 {
   "name": "@jpporta/test-design-library",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
